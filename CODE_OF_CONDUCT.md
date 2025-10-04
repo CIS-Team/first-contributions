@@ -1,0 +1,1 @@
+We welcome everyone to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
